@@ -13,22 +13,13 @@ I'm a full-stack developer based in Romania, specializing in modern web and mobi
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,trpc,graphql,mongodb,postgres,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,mongodb,postgres,firebase,supabase" />
 </p>
 
-### State Management
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=zustand" />
-</p>
-
-### Validation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=zod" />
-</p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,jest,linux,apple" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux,apple" />
 </p>
 
 ### Machine Learning & AI
